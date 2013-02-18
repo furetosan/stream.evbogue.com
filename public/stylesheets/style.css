@@ -3,9 +3,10 @@ a:link {
   cursor: pointer;
 }
 body {
-  background: #f9f9f9 url("/noise.png");
+  background: #f9f9f9 url("/images/noise.png");
   font-family: 'open sans', verdana;
   padding-bottom: 5em;
+  margin-top: 2em;
 }
 table tfoot th,
 table tbody th {
