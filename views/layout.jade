@@ -9,10 +9,11 @@ html
 
 
     .container
-      .span8
-        block content
-      .span4
-        <img src='#{gravatar}'>
+      .row
+        .span6.offset1
+          block content
+        .span3
+          <img src='#{gravatar}'>
 
     script(type='text/css', href='/bootstrap/css/bootstrap.js')
     script(type='text/css', href='http://code.jquery.com/jquery.js')
