@@ -1,0 +1,32 @@
+a,
+a:link {
+  cursor: pointer;
+}
+body {
+  background: #f9f9f9 url("/noise.png");
+  font-family: 'open sans', verdana;
+  padding-bottom: 5em;
+}
+table tfoot th,
+table tbody th {
+  border-top: 1px solid #ddd;
+}
+.navbar-inner {
+  border-bottom: #f1f1f1;
+}
+.container-main {
+  padding-top: 60px;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 300;
+}
+p,
+li {
+  font-weight: 300;
+}
+.date {
+  color: #999;
+}
