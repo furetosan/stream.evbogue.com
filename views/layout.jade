@@ -2,6 +2,17 @@ doctype 5
 html
   head
     title= title
+    link(rel='stylesheet', href='/bootstrap/css/bootstrap.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700')
   body
-    block content
+
+
+    .container
+      .span8
+        block content
+      .span4
+        <img src='#{gravatar}'>
+
+    script(type='text/css', href='/bootstrap/css/bootstrap.js')
+    script(type='text/css', href='http://code.jquery.com/jquery.js')
