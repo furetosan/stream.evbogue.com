@@ -1,3 +1,5 @@
+Feb 19 2013 | So this weird thing just happened. I bricked Ubuntu, and had to reinstall Mac OS X. Uhm. I think I'm surprised I'm enjoying myself. It's like the deep pleasure of being with a former lover. A former dead lover.
+
 Feb 15 2013 | [The Art of Being Minimalist](http://writing.evbogue.com/posts/minimalist)
 
 Feb 14 2013 | [Node.js will destroy your startup](http://writing.evbogue.com/posts/nodedestroy)
