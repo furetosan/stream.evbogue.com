@@ -1,3 +1,5 @@
+Feb 22 2013 | [The cloud is bullshit](http://writing.evbogue.com/posts/bullshitclouds)
+
 Feb 21 2013 | Drinking instant coffee. Coming back down from my [6-month Linux retreat](http://writing.evbogue.com/posts/6monthslinux)
 
 Feb 19 2013 | So this weird thing just happened. I bricked Ubuntu, and had to reinstall Mac OS X. Uhm. I think I'm surprised I'm enjoying myself. It's like the deep pleasure of being with a former lover. A former dead lover.
