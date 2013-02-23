@@ -1,3 +1,5 @@
+Feb 22 2013 | Reading [Learning Go](http://www.miek.nl/projects/)
+
 Feb 22 2013 | [The cloud is bullshit](http://writing.evbogue.com/posts/bullshitclouds)
 
 Feb 21 2013 | Drinking instant coffee. Coming back down from my [6-month Linux retreat](http://writing.evbogue.com/posts/6monthslinux)
